@@ -1,0 +1,2 @@
+# HackerRank-
+Java Solving Challenge 
